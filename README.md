@@ -499,7 +499,7 @@ https://gist.githubusercontent.com/FantoX001/481b039ef502a56339374b29b7491695/ra
 **〽️ Description:** This plugin conatains 100 anime NSFW image commands using my own API<br><br>
 **🧲️ Plug-in installation url:** 
 ```
-https://gist.githubusercontent.com/FantoX001/804c106f1f2fb1ae46e9bd63f854069d/raw/a93191b83c0cca44abb7e0e26b55caf2892f0bb4/nsfw-image.js
+https://gist.githubusercontent.com/FantoX001/804c106f1f2fb1ae46e9bd63f854069d/raw/1fd9ef61ce9a893afab56c04c670979827c2cc6c/nsfw-image.js
 ```
 <br><br>
 
